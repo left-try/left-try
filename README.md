@@ -40,9 +40,6 @@
 </p>
 
 ### 📫 Reach Me
-- **Telegram:** [@stakhov-ivan](https://t.me/stakhov-ivan)  
+- **Telegram:** [@stakhov_ivan](https://t.me/stakhov_ivan)  
 - **LinkedIn:** [ivan‑stakhov](https://www.linkedin.com/in/ivan-stakhov/)  
 
----
-
-*Thanks for stopping by—drop a ⭐ if you like my work!*
