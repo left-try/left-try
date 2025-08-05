@@ -18,10 +18,9 @@
 
 ### 🧑‍💻 About Me
 - **Full‑Stack Web Developer** (C++, Python, AI/ML)  
-- CS undergrad @ AUCA ’27 🇰🇬  
+- CS undergraduate @ AUCA ’27  
 - Passionate about scalable back‑ends, ML pipelines, and algorithmic problem‑solving (2× ICPC NERC finalist)  
-- Currently building cool stuff at **Froxy Labs**  
-- Always up for interesting open‑source collaborations & talks about tech, chess, or cycling
+- Currently working at **Froxy Labs**  
 
 ### 🚀 Tech Stack
 `C++` | `Python` | `Go` | `FastAPI` | `Docker` | `PostgreSQL` | `gRPC` | `Redis`
