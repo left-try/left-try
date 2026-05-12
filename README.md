@@ -1,45 +1,71 @@
-<h1 align="center">Hey there 👋 I’m Ivan Stakhov (@left‑try)</h1>
+# Ivan Stakhov
 
-<p align="center">
-  <!-- Core tech & role -->
-  <img src="https://img.shields.io/badge/Full‑Stack%20Web%20Developer-009688?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/AI/ML-ffdd00?logo=openai&logoColor=black&style=flat-square" />
-
-  <!-- Achievements -->
-  <img src="https://img.shields.io/badge/ICPC%20Certificate-NERC%20Finalist-blueviolet?style=flat-square&link=https://www.linkedin.com/in/ivan-stakhov/details/certifications/" />
-  
-  <!-- Fun stat -->
-  <img src="https://komarev.com/ghpvc/?username=left-try&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+ML & Backend Developer  
+CS undergraduate at American University of Central Asia, class of 2027  
+ICPC NERC Finalist x2  
+Currently working at Froxy Labs
 
 ---
 
-### 🧑‍💻 About Me
-- **Full‑Stack Web Developer** (C++, Python, AI/ML)  
-- CS undergraduate @ AUCA ’27  
-- Passionate about scalable back‑ends, ML pipelines, and algorithmic problem‑solving (2× ICPC NERC finalist)  
-- Currently working at **Froxy Labs**  
+## About
 
-### 🚀 Tech Stack
-`C++` | `Python` | `Go` | `FastAPI` | `Docker` | `PostgreSQL` | `gRPC` | `Redis`
+I am a computer science student and developer focused on backend systems, machine learning, and algorithmic problem solving.
 
-### 📌 Featured Project
-| Repo | What it does | Core Tech |
-|------|--------------|-----------|
-| **[rspamd](https://github.com/left-try/rspamd)** | Contributing performance patches & CI pipelines to the high‑throughput spam‑filter | C, Lua, Docker |
+My main interests are scalable backend architecture, data-driven systems, ML pipelines, and performance-oriented development. I have experience working with Python, C++, Go, FastAPI, PostgreSQL, Redis, Docker, and related backend tools.
 
-*(Check my pinned repos for more!)*
+I also have a strong competitive programming background, including two ICPC NERC finalist qualifications.
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=left-try&show_icons=true&theme=graywhite" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=left-try&theme=graywhite" alt="GitHub streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=left-try&layout=compact&hide=Jupyter%20Notebook" alt="Top languages"/>
-</p>
+---
 
-### 📫 Reach Me
-- **Telegram:** [@stakhov_ivan](https://t.me/stakhov_ivan)  
-- **LinkedIn:** [ivan‑stakhov](https://www.linkedin.com/in/ivan-stakhov/)  
+## Core Skills
 
+**Languages:** C++, Python, Go, C, Lua  
+**Backend:** FastAPI, REST APIs, gRPC, PostgreSQL, Redis  
+**Infrastructure:** Docker, CI/CD, Linux  
+**ML / Data:** Machine learning pipelines, data processing, model experimentation  
+**Other:** Algorithms, performance optimization, systems programming basics
+
+---
+
+## Experience
+
+**Froxy Labs**  
+Backend / ML Development
+
+Working on backend and AI-related systems, with a focus on practical software engineering, automation, and scalable product development.
+
+**Rspamd**  
+Software Engineering Intern / Contributor
+
+Worked with a high-throughput spam filtering system, including Lua plugins, C-based codebase, Docker-based environments, testing, and CI-related improvements.
+
+---
+
+## Selected Work
+
+### rspamd
+Contributions and experiments related to a high-performance spam filtering system.
+
+Tech stack: C, Lua, Docker, CI/CD
+
+### Backend API Projects
+Several REST API projects built with Python and Go, including educational platform management, event management, and referral-related systems.
+
+Tech stack: Python, Go, FastAPI, PostgreSQL, Redis
+
+---
+
+## Interests
+
+Backend engineering  
+Machine learning systems  
+Infrastructure and automation  
+Competitive programming  
+Open-source development
+
+---
+
+## Contacts
+
+Telegram: [@stakhov_ivan](https://t.me/stakhov_ivan)  
+LinkedIn: [ivan-stakhov](https://www.linkedin.com/in/ivan-stakhov/)  
