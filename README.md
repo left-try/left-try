@@ -1,11 +1,10 @@
 # Ivan Stakhov
 
-ML & Backend Developer  
+Applied AI & Backend Developer  
 CS undergraduate at American University of Central Asia, class of 2027  
 ICPC NERC Finalist x2  
 Currently working at Froxy Labs
 
----
 
 ## About
 
@@ -15,7 +14,6 @@ My main interests are scalable backend architecture, data-driven systems, ML pip
 
 I also have a strong competitive programming background, including two ICPC NERC finalist qualifications.
 
----
 
 ## Core Skills
 
@@ -25,12 +23,11 @@ I also have a strong competitive programming background, including two ICPC NERC
 **ML / Data:** Machine learning pipelines, data processing, model experimentation  
 **Other:** Algorithms, performance optimization, systems programming basics
 
----
 
 ## Experience
 
 **Froxy Labs**  
-Backend / ML Development
+Applied AI / Backend Development
 
 Working on backend and AI-related systems, with a focus on practical software engineering, automation, and scalable product development.
 
@@ -39,7 +36,6 @@ Software Engineering Intern / Contributor
 
 Worked with a high-throughput spam filtering system, including Lua plugins, C-based codebase, Docker-based environments, testing, and CI-related improvements.
 
----
 
 ## Selected Work
 
@@ -53,7 +49,6 @@ Several REST API projects built with Python and Go, including educational platfo
 
 Tech stack: Python, Go, FastAPI, PostgreSQL, Redis
 
----
 
 ## Interests
 
@@ -63,7 +58,6 @@ Infrastructure and automation
 Competitive programming  
 Open-source development
 
----
 
 ## Contacts
 
