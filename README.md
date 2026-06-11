@@ -5,13 +5,11 @@ CS undergraduate at American University of Central Asia, class of 2027
 ICPC NERC Finalist x2 | RuCode 2024 Finalist  
 Currently working at Froxy Labs
 
----
 
 ## About
 
 CS student at AUCA and backend/AI developer. I work at Froxy Labs on automation systems that actually ship RAG pipelines, LangChain/LangGraph, app store workflows. Also spent a year working on Rspamd's C/Lua codebase. Competed in ICPC twice, made NERC both times.
 
----
 
 ## Skills
 
@@ -23,7 +21,6 @@ CS student at AUCA and backend/AI developer. I work at Froxy Labs on automation 
 **Testing:** RobotFramework, Python test utilities  
 **Other:** OpenSSL, algorithms, systems programming
 
----
 
 ## Experience
 
@@ -33,10 +30,6 @@ Building AI-assisted automation systems using NLP, RAG, LangChain, and IPA to st
 **RSPAMD LTD** — C/Lua Software Engineer *(Jan 2024 – Dec 2024)*  
 Developed Lua plugins for replies and know_senders using Redis. Restructured the codebase for OpenSSL 3.0 support. Implemented a secretbox-based header encode/decode utility in C with a Python counterpart. Wrote Python tests with RobotFramework.
 
-**CODDY** — Program Director / Teacher / Methodologist *(Dec 2024 – Sep 2025)*  
-Designed and taught courses in Competitive Programming, Machine Learning with Python, Game Development, and Android Development with Kotlin. Tutored CS50 Harvard. Developed curriculum from scratch.
-
----
 
 ## Selected Projects
 
@@ -56,7 +49,6 @@ Backend for an educational platform: product/lesson/group management, student en
 Contributions to a high-performance open-source spam filtering system.  
 *C, Lua, Docker, CI/CD*
 
----
 
 ## Certifications
 
@@ -68,7 +60,6 @@ Contributions to a high-performance open-source spam filtering system.
 - Certified Ethical Hacker (CEH) — Cisco Networking Academy *(Nov 2025)*
 - Go: The Complete Guide — Udemy *(Feb 2024)*
 
----
 
 ## Honors
 
@@ -77,12 +68,8 @@ Contributions to a high-performance open-source spam filtering system.
 - ICPC 2023 Semifinalist
 - RuCode 2024 — 2nd Degree Diploma
 
----
 
 ## Contacts
-
-Telegram: [@stakhov_ivan](https://t.me/stakhov_ivan)  
-LinkedIn: [ivan-stakhov](https://www.linkedin.com/in/ivan-stakhov/)
 
 Telegram: [@stakhov_ivan](https://t.me/stakhov_ivan)  
 LinkedIn: [ivan-stakhov](https://www.linkedin.com/in/ivan-stakhov/)
