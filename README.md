@@ -35,19 +35,19 @@ Developed Lua plugins for replies and know_senders using Redis. Restructured the
 
 ### [gsd-hooks](https://github.com/left-try/gsd-hooks)
 Extends GSD with rate-limit resilience, economy mode, and a feature workflow for Claude Code, Gemini CLI, and Codex. Implements 429 recovery with exponential backoff and multi-runtime hook wiring.  
-*JavaScript, Node.js*
+*JavaScript, Node.js, Agents*
 
-### [ReferalAPI](https://github.com/left-try/ReferalAPI)
-REST API for user registration, JWT authentication, and referral code lifecycle management. Includes Swagger documentation and test coverage.  
-*Go, Gin, GORM, MySQL, JWT*
+### [rgsd](https://github.com/left-try/ReferalAPI](https://github.com/left-try/release-bot)
+rgsd is a fork of gsd-core that replaces the linear subagent model with an RLM (Recursive Language Model) inference loop — agents that can decompose problems by recursively calling themselves, rather than spawning one-shot leaf agents.
+*JS, TS, Agents*
 
-### [Edu Platform Management API](https://github.com/left-try/Edu_Platform_Management_API)
-Backend for an educational platform: product/lesson/group management, student enrollment, and purchase analytics.  
-*Python, Django, JWT*
+### [release-bot](https://github.com/left-try/release-bot)
+A lightweight Telegram bot that receives release events from any CI/CD pipeline and posts formatted notifications to a configured Telegram channel — with a single curl call. 
+*Python, CI/CD, Docker*
 
 ### [rspamd](https://github.com/left-try/rspamd)
 Contributions to a high-performance open-source spam filtering system.  
-*C, Lua, Docker, CI/CD*
+*C/C++, Lua, Redis, Docker, CI/CD*
 
 
 ## Certifications
