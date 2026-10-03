@@ -1,76 +1,80 @@
 # Ivan Stakhov
 
-Middle Applied AI & Backend Engineer  
-CS undergraduate at American University of Central Asia, class of 2027  
-ICPC NERC Finalist x2 | RuCode 2024 Finalist  
-Currently working at Froxy Labs
-
+**Middle Applied AI & Backend Developer**  
+CS undergraduate at the American University of Central Asia, class of 2027  
+Currently building AI-assisted products and backend systems at **Froxy Labs**
 
 ## About
 
-CS student at AUCA and backend/AI developer. I work at Froxy Labs on automation systems that actually ship RAG pipelines, LangChain/LangGraph, app store workflows. Also spent a year working on Rspamd's C/Lua codebase. Competed in ICPC twice, made NERC both times.
+I build backend and Applied AI systems with a growing focus on **AI agents, agent infrastructure, orchestration, RAG, and production backend architecture**.
 
+My work spans Python backend development, LLM-powered workflows, agent tooling, distributed systems, and open-source systems engineering. Before moving deeper into Applied AI, I worked on the Rspamd C/Lua codebase and contributed features around Redis, OpenSSL, testing, and mail-processing infrastructure.
 
-## Skills
+Outside of work, I build experimental infrastructure for AI coding agents and explore ways to make agentic systems more reliable, observable, and controllable.
 
-**Languages:** C++, Python, Go, C, Lua  
-**AI / ML:** LangChain, RAG architectures, NLP, ML pipelines, IPA  
-**Backend:** FastAPI, Django, Gin, gRPC, REST, JWT, Swagger  
-**Databases:** PostgreSQL, MySQL, Redis  
-**Cloud & Infra:** AWS, Amazon EKS, Docker, CI/CD, Linux  
-**Testing:** RobotFramework, Python test utilities  
-**Other:** OpenSSL, algorithms, systems programming
+## Core Stack
 
+**Applied AI / Agents:** LangChain, LangGraph, OpenAI SDK, RAG, agent workflows, MCP, prompt/context engineering  
+**Backend:** Python, FastAPI, Django, REST, gRPC, WebSockets  
+**Data & Messaging:** PostgreSQL, Redis, Qdrant, Kafka, RabbitMQ  
+**Infrastructure:** Docker, Kubernetes, AWS, Linux, CI/CD  
+**Systems:** C, C++, Lua, Go, OpenSSL  
+**Engineering:** distributed systems, testing, observability, system design
+
+## Featured Projects
+
+### [gsd-hooks](https://github.com/left-try/gsd-hooks)
+Rate-limit resilience, economy mode, and lightweight feature workflows for GSD-based AI coding agents. Adds automatic recovery and pacing across Claude Code, Gemini CLI, and Codex.
+
+`JavaScript` · `Agent Infrastructure` · `Developer Tools`
+
+### [Jev Governor](https://github.com/left-try/jev-governor)
+A local control plane for AI coding-agent sessions. Records agent events, reconstructs session state, and applies deterministic governance around verification, recovery, budgets, and completion.
+
+`Python` · `FastAPI` · `MCP` · `gRPC` · `SQLite` · `Agent Infrastructure`
+
+### [rgsd](https://github.com/left-try/rgsd)
+A spec-driven development workflow for AI coding agents built around a Recursive Language Model inference loop, recursive delegation, context slicing, and symbol-aware codebase navigation.
+
+`JavaScript` · `TypeScript` · `RLM` · `AI Agents`
+
+### [release-bot](https://github.com/left-try/release-bot)
+A lightweight Telegram release-notification service that accepts events from CI/CD pipelines and publishes formatted deployment updates through a simple HTTP integration.
+
+`Python` · `CI/CD` · `Docker` · `Telegram`
+
+### [Rspamd](https://github.com/left-try/rspamd)
+Contributions to a high-performance open-source spam filtering system, including Lua/Redis plugins, OpenSSL-related work, C utilities, and automated testing.
+
+`C` · `C++` · `Lua` · `Redis` · `OpenSSL`
 
 ## Experience
 
-**Froxy Labs** — Middle Applied AI & Backend Engineer *(May 2026 – present)*  
-Building AI-assisted automation systems using NLP, RAG, LangChain, and IPA to streamline mobile app publishing workflows for App Store Connect and Google Play Console. Responsibilities include system architecture, compliance-focused features, performance optimization, and SaaS product development.
+**Froxy Labs** — Middle Applied AI & Backend Developer  
+*May 2026 – present*
 
-**RSPAMD LTD** — C/Lua Software Engineer *(Nov 2023 – Jan 2025)*  
-Developed Lua plugins for replies and know_senders using Redis. Restructured the codebase for OpenSSL 3.0 support. Implemented a secretbox-based header encode/decode utility in C with a Python counterpart. Wrote Python tests with RobotFramework.
+Building AI-assisted automation and backend systems for mobile-app publishing workflows, including agentic workflows, RAG, system integrations, APIs, and production-oriented automation.
 
+**RSPAMD LTD** — C/Lua Software Engineer  
+*Nov 2023 – Jan 2025*
 
-## Selected Projects
+Worked on Rspamd's C/Lua codebase: Redis-backed Lua plugins, OpenSSL 3.0 migration work, cryptographic utilities, and Python/RobotFramework testing.
 
-### [jev-governor]([https://github.com/left-try/gsd-hooks](https://github.com/left-try/jev-governor))
-Lightweight local supervision and governance for AI coding agents, using deterministic checkpoints and sparse Jev evaluations.  
-*Python, Jev, Agents*
+## Highlights
 
-### [rgsd](https://github.com/left-try/rgsd)
-rgsd is a fork of gsd-core that replaces the linear subagent model with an RLM (Recursive Language Model) inference loop — agents that can decompose problems by recursively calling themselves, rather than spawning one-shot leaf agents.
-*JS, TS, Agents*
+- ICPC NERC Finalist / Semifinalist — 2023, 2024
+- RuCode 2024 Finalist
+- Experience across Applied AI, backend engineering, and systems programming
+- Active open-source experimentation around AI coding-agent infrastructure
 
-### [release-bot](https://github.com/left-try/release-bot)
-A lightweight Telegram bot that receives release events from any CI/CD pipeline and posts formatted notifications to a configured Telegram channel — with a single curl call. 
-*Python, CI/CD, Docker*
+## Currently Exploring
 
-### [rspamd](https://github.com/left-try/rspamd)
-Contributions to a high-performance open-source spam filtering system.  
-*C/C++, Lua, Redis, Docker, CI/CD*
+- Reliable agent execution and supervision
+- Context management for long-running coding agents
+- RAG and retrieval architectures
+- Agent observability, evaluation, and guardrails
+- Distributed backend architecture for AI-native products
 
+## Contact
 
-## Certifications
-
-- AI Engineer Agentic Track: The Complete Agent & MCP Course - Udemy *(Aug 2026)*
-- Docker & Kubernetes: The Practical Guide — Udemy *(Jun 2026)*
-- Redis for AI — Redis *(May 2026)*
-- Neural Networks and Text Processing — Stepik *(Mar 2026, with distinction)*
-- CCNA: Introduction to Computer Networks — Cisco *(Dec 2025)*
-- Junior Cybersecurity Analyst — Cisco Networking Academy *(Nov 2025)*
-- Certified Ethical Hacker (CEH) — Cisco Networking Academy *(Nov 2025)*
-- Go: The Complete Guide — Udemy *(Feb 2024)*
-
-
-## Honors
-
-- ICPC 2024 NERC Semifinal — 3rd Degree Diploma
-- ICPC 2024 Quarterfinal — 2nd Degree Diploma
-- ICPC 2023 Semifinalist
-- RuCode 2024 — 2nd Degree Diploma
-
-
-## Contacts
-
-Telegram: [@stakhov_ivan](https://t.me/stakhov_ivan)  
-LinkedIn: [ivan-stakhov](https://www.linkedin.com/in/ivan-stakhov/)
+[LinkedIn](https://www.linkedin.com/in/ivan-stakhov/) · [Telegram](https://t.me/stakhov_ivan)
