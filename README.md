@@ -35,39 +35,79 @@ My background spans Python backend development, LLM-powered workflows, distribut
 
 ## Featured Projects
 
-### [Jev Governor](https://github.com/left-try/jev-governor)
-A local control plane for AI coding-agent sessions. Records agent events, reconstructs session state, and applies deterministic governance around verification, recovery, budgets, and completion.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` · `FastAPI` · `MCP` · `gRPC` · `SQLite` · `Agent Infrastructure`
+### [Jev Governor](https://github.com/left-try/jev-governor)
+Local control plane for AI coding-agent sessions with deterministic governance for verification, recovery, budgets, and completion.
+
+`Python` · `FastAPI` · `MCP` · `gRPC` · `SQLite`
+
+</td>
+<td width="50%" valign="top">
 
 ### [rgsd](https://github.com/left-try/rgsd)
-A spec-driven development workflow for AI coding agents built around a Recursive Language Model inference loop, recursive delegation, context slicing, and symbol-aware codebase navigation.
+Spec-driven development for AI coding agents using an RLM inference loop, recursive delegation, context slicing, and symbol-aware navigation.
 
 `JavaScript` · `TypeScript` · `RLM` · `AI Agents`
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [release-bot](https://github.com/left-try/release-bot)
-A lightweight Telegram release-notification service that accepts events from CI/CD pipelines and publishes formatted deployment updates through a simple HTTP integration.
+Lightweight Telegram release-notification service for CI/CD pipelines with a simple HTTP integration.
 
 `Python` · `CI/CD` · `Docker` · `Telegram`
 
+</td>
+<td width="50%" valign="top">
+
 ### [Rspamd](https://github.com/left-try/rspamd)
-Contributions to a high-performance open-source spam filtering system, including Lua/Redis plugins, OpenSSL-related work, C utilities, and automated testing.
+Open-source contributions around Lua/Redis plugins, OpenSSL-related work, C utilities, and automated testing.
 
 `C` · `C++` · `Lua` · `Redis` · `OpenSSL`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-**Froxy Labs** — Middle Applied AI & Backend Developer  
+<table>
+<tr>
+<td width="28%" valign="top">
+
+**Froxy Labs**  
 *May 2026 – present*
 
+</td>
+<td width="72%" valign="top">
+
+**Middle Applied AI & Backend Developer**  
 Building AI-assisted automation and backend systems for mobile-app publishing workflows, including agentic workflows, RAG, system integrations, APIs, and production-oriented automation.
 
-**RSPAMD LTD** — C/Lua Software Engineer  
+</td>
+</tr>
+<tr>
+<td width="28%" valign="top">
+
+**RSPAMD LTD**  
 *Nov 2023 – Jan 2025*
 
+</td>
+<td width="72%" valign="top">
+
+**C/Lua Software Engineer**  
 Worked on Rspamd's C/Lua codebase: Redis-backed Lua plugins, OpenSSL 3.0 migration work, cryptographic utilities, and Python/RobotFramework testing.
+
+</td>
+</tr>
+</table>
 
 ---
 
