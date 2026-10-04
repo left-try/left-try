@@ -39,18 +39,18 @@ My background spans Python backend development, LLM-powered workflows, distribut
 <tr>
 <td width="50%" valign="top">
 
-### [Jev Governor](https://github.com/left-try/jev-governor)
-Local control plane for AI coding-agent sessions with deterministic governance for verification, recovery, budgets, and completion.
+### [Rspamd](https://github.com/left-try/rspamd)
+Open-source contributions to a high-performance spam-filtering engine, including Lua/Redis plugins, OpenSSL work, C utilities, and automated testing.
 
-`Python` · `FastAPI` · `MCP` · `gRPC` · `SQLite`
+`C` · `C++` · `Lua` · `Redis` · `OpenSSL`
 
 </td>
 <td width="50%" valign="top">
 
-### [rgsd](https://github.com/left-try/rgsd)
-Spec-driven development for AI coding agents using an RLM inference loop, recursive delegation, context slicing, and symbol-aware navigation.
+### [Open Prompt Format](https://github.com/stovo-team/open-prompt-format)
+Repo-first format and tooling for writing, versioning, loading, and evaluating portable prompts.
 
-`JavaScript` · `TypeScript` · `RLM` · `AI Agents`
+`Python` · `TypeScript` · `Prompt Tooling`
 
 </td>
 </tr>
@@ -58,17 +58,17 @@ Spec-driven development for AI coding agents using an RLM inference loop, recurs
 <td width="50%" valign="top">
 
 ### [release-bot](https://github.com/left-try/release-bot)
-Lightweight Telegram release-notification service for CI/CD pipelines with a simple HTTP integration.
+Lightweight CI/CD release notifications for Telegram.
 
-`Python` · `CI/CD` · `Docker` · `Telegram`
+`Python` · `CI/CD` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### [Rspamd](https://github.com/left-try/rspamd)
-Open-source contributions around Lua/Redis plugins, OpenSSL-related work, C utilities, and automated testing.
+### [rgsd](https://github.com/left-try/rgsd)
+Spec-driven development for AI coding agents built around an RLM inference loop and recursive delegation.
 
-`C` · `C++` · `Lua` · `Redis` · `OpenSSL`
+`JavaScript` · `TypeScript` · `RLM` · `AI Agents`
 
 </td>
 </tr>
