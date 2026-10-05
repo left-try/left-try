@@ -14,9 +14,9 @@ Building AI-assisted products and backend systems at **Froxy Labs**
 
 ## About
 
-I build backend and Applied AI systems focused on **AI agents, RAG, orchestration, and production backend architecture**.
+I build backend and Applied AI systems with a focus on **agentic workflows, distributed architecture, and developer tooling**.
 
-My background spans Python backend development, LLM-powered workflows, distributed systems, and lower-level systems work in C/Lua.
+I work across product backend, LLM-powered systems, and lower-level systems engineering — from Python/FastAPI to C/Lua and infrastructure.
 
 ---
 
@@ -39,10 +39,10 @@ My background spans Python backend development, LLM-powered workflows, distribut
 <tr>
 <td width="50%" valign="top">
 
-### [Rspamd](https://github.com/left-try/rspamd)
-Open-source contributions to a high-performance spam-filtering engine, including Lua/Redis plugins, OpenSSL work, C utilities, and automated testing.
+### [Stovo](https://github.com/stovo-team/stovo)
+Self-hosted corporate messenger and workspace for teams, with messaging, meetings, files, and collaboration on infrastructure you control.
 
-`C` · `C++` · `Lua` · `Redis` · `OpenSSL`
+`Go` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `S3`
 
 </td>
 <td width="50%" valign="top">
@@ -57,10 +57,10 @@ Repo-first format and tooling for writing, versioning, loading, and evaluating p
 <tr>
 <td width="50%" valign="top">
 
-### [release-bot](https://github.com/left-try/release-bot)
-Lightweight CI/CD release notifications for Telegram.
+### [Rspamd](https://github.com/left-try/rspamd)
+Open-source contributions to a high-performance spam-filtering engine, including Lua/Redis plugins, OpenSSL work, C utilities, and automated testing.
 
-`Python` · `CI/CD` · `Docker`
+`C` · `C++` · `Lua` · `Redis` · `OpenSSL`
 
 </td>
 <td width="50%" valign="top">
