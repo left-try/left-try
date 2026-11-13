@@ -65,7 +65,7 @@ Open-source contributions to a high-performance spam-filtering engine, including
 </td>
 <td width="50%" valign="top">
 
-### [okf-agent]([https://github.com/left-try/rgsd](https://github.com/left-try/okf-agent))
+### [okf-agent](https://github.com/left-try/okf-agent)
 Agent that builds docs for your agent.
 
 `Rust` · `OKF` · `Knowledge Base` · `AI Agents`
