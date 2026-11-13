@@ -51,6 +51,7 @@ Self-hosted corporate messenger and workspace for teams, with messaging, meeting
 Repo-first format and tooling for writing, versioning, loading, and evaluating portable prompts.
 
 
+
 `Python` · `TypeScript` · `Prompt Tooling`
 
 </td>
@@ -68,6 +69,7 @@ Open-source contributions to a high-performance spam-filtering engine, including
 
 ### [okf-agent](https://github.com/left-try/okf-agent)
 Agent that builds docs for your agent.
+
 
 
 `Rust` · `OKF` · `Knowledge Base` · `AI Agents`
