@@ -6,7 +6,7 @@
 
 Building AI-assisted products and backend systems at **Froxy Labs**
 
-[LinkedIn](https://www.linkedin.com/in/ivan-stakhov/) · [Telegram](https://t.me/stakhov_ivan)
+[About me](https://stakhovivan.stovo.cc/) · [LinkedIn](https://www.linkedin.com/in/ivan-stakhov/) · [Telegram](https://t.me/stakhov_ivan)
 
 </div>
 
