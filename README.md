@@ -50,7 +50,7 @@ Self-hosted corporate messenger and workspace for teams, with messaging, meeting
 ### [Open Prompt Format](https://github.com/stovo-team/open-prompt-format)
 Repo-first format and tooling for writing, versioning, loading, and evaluating portable prompts.
 
-
+<br>
 
 `Python` · `TypeScript` · `Prompt Tooling`
 
@@ -70,7 +70,7 @@ Open-source contributions to a high-performance spam-filtering engine, including
 ### [okf-agent](https://github.com/left-try/okf-agent)
 Agent that builds docs for your agent.
 
-
+<br>
 
 `Rust` · `OKF` · `Knowledge Base` · `AI Agents`
 
