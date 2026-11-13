@@ -28,7 +28,7 @@ I work across product backend, LLM-powered systems, and lower-level systems engi
 | **Backend** | Python, FastAPI, Django, REST, gRPC, WebSockets |
 | **Data & Messaging** | PostgreSQL, Redis, Qdrant, Kafka, RabbitMQ |
 | **Infrastructure** | Docker, Kubernetes, AWS, Linux, CI/CD |
-| **Systems** | C, C++, Lua, Go, OpenSSL |
+| **Systems** | Rust, Go, C/C++, Lua, OpenSSL |
 | **Engineering** | Distributed systems, testing, observability, system design |
 
 ---
