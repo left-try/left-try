@@ -113,7 +113,7 @@ Worked on Rspamd's C/Lua codebase: Redis-backed Lua plugins, OpenSSL 3.0 migrati
 
 ## Highlights
 
-- ICPC NERC Finalist / Semifinalist — 2023-2026
+- ICPC NERC Finalist / Semifinalist 2023-2026
 - RuCode 2024 Finalist
 - Experience across Applied AI, backend engineering, and systems programming
 - Active open-source experimentation around AI coding-agent infrastructure
