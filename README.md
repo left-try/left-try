@@ -44,6 +44,8 @@ Self-hosted corporate messenger and workspace for teams, with messaging, meeting
 
 `Go` · `React` · `TypeScript` · `PostgreSQL` · `Redis` · `S3`
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -53,6 +55,8 @@ Repo-first format and tooling for writing, versioning, loading, and evaluating p
 <br>
 
 `Python` · `TypeScript` · `Prompt Tooling`
+
+<br>
 
 </td>
 </tr>
@@ -64,6 +68,8 @@ Open-source contributions to a high-performance spam-filtering engine, including
 
 `C` · `C++` · `Lua` · `Redis` · `OpenSSL`
 
+<br>
+
 </td>
 <td width="50%" valign="top">
 
@@ -74,6 +80,8 @@ Agent that builds docs for your agent.
 <br>
 
 `Rust` · `OKF` · `Knowledge Base` · `AI Agents`
+
+<br>
 
 </td>
 </tr>
