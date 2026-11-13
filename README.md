@@ -65,10 +65,10 @@ Open-source contributions to a high-performance spam-filtering engine, including
 </td>
 <td width="50%" valign="top">
 
-### [rgsd](https://github.com/left-try/rgsd)
-Spec-driven development for AI coding agents built around an RLM inference loop and recursive delegation.
+### [okf-agent]([https://github.com/left-try/rgsd](https://github.com/left-try/okf-agent))
+Agent that builds docs for your agent.
 
-`JavaScript` · `TypeScript` · `RLM` · `AI Agents`
+`Rust` · `OKF` · `Knowledge Base` · `AI Agents`
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Worked on Rspamd's C/Lua codebase: Redis-backed Lua plugins, OpenSSL 3.0 migrati
 
 ## Highlights
 
-- ICPC NERC Finalist / Semifinalist — 2023, 2024
+- ICPC NERC Finalist / Semifinalist — 2023-2026
 - RuCode 2024 Finalist
 - Experience across Applied AI, backend engineering, and systems programming
 - Active open-source experimentation around AI coding-agent infrastructure
